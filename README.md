@@ -12,5 +12,4 @@ I am a Health Tech Product Manager 👩‍💻 and former cancer researcher at U
 *  **Predictive Healthcare Models:** Trained and compared ML models on wearable datasets to predict patient stress scores, sleep quality, and monitor disease progression.
 
 #### 🛠️ Tech Stack & Tools
-*  **Languages & Frameworks:** Python, React/Javascript, SQL, R, AWS, MCP.
-*  **Health Data & Design:** Figma, User-Centric Design, Wearable Sensor Data, EHR Integration.
+*  Python, React/Javascript, SQL, R, AWS, MCP, Figma/Canva
