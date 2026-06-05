@@ -1,4 +1,4 @@
-### Hi! I'm Diana! 👋
+### Hi, I'm Diana! 👋
 
 I am a Health Tech Product Manager 👩‍💻 and former cancer researcher at UC Berkeley and UCSF 👩‍🔬.  Currently, I am pursuing my M.S., Applied Info Science & Info Systems in Health Technology at Cornell Tech. I sit at the intersection of life sciences and AI strategy building strategic frameworks and tools that translate complex data into actionable clinical insights.
 
