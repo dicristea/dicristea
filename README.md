@@ -1,8 +1,9 @@
 ### Hi! I'm Diana! 👋
 
-I am a Health Tech Engineer 👩‍💻 and former Molecular Biologist 👩‍🔬.  Currently, I am pursuing my M.S., Applied Info Science & Info Systems in Health Technology at Cornell Tech. I sit at the intersection of life sciences and AI strategy, building strategic frameworks and tools that translate complex data into actionable clinical insights.
+I am a Health Tech Product Manager 👩‍💻 and former Cancer Researcher 👩‍🔬.  Currently, I am pursuing my M.S., Applied Info Science & Info Systems in Health Technology at Cornell Tech. I sit at the intersection of life sciences and AI strategy, building strategic frameworks and tools that translate complex data into actionable clinical insights.
 
 #### 🔭 What I'm currently working on
+*  **Weill Cornell Medicine NICU Department:** Analyzing workflow across NICU clinicians and staff to define and design departmental AI-driven assistive tools. 
 *  **JupyterHealth:** Leading the design and technical development of a clinician-facing tool to bridge EHRS (FHIR) with continuous wearable data (Oura/Whoop).  I am integrating MCP servers for LLM assisted workflows in precision medicine.
 *  **Trust & Safety AI:** Produced a comprehensive user-centric safety policy and developed a moderation labeler for "grey area" survivor content on the BlueSky platform, balancing expression with safety.
 
