@@ -1,6 +1,6 @@
 ### Hi! I'm Diana! 👋
 
-I am a Health Tech Engineer 👩‍💻 and former Molecular Biologist 👩‍🔬.  Currently, I am pursuing my M.S., Applied Info Science & Info Systems in Health Technology at Cornell Tech. I sit at the intersection of life sciences and AI strategy, building computational tools and strategic frameworks that translate complex data into actionable clinical insights.
+I am a Health Tech Engineer 👩‍💻 and former Molecular Biologist 👩‍🔬.  Currently, I am pursuing my M.S., Applied Info Science & Info Systems in Health Technology at Cornell Tech. I sit at the intersection of life sciences and AI strategy, building strategic frameworks and tools that translate complex data into actionable clinical insights.
 
 #### 🔭 What I'm currently working on
 *  **JupyterHealth:** Leading the design and technical development of a clinician-facing tool to bridge EHRS (FHIR) with continuous wearable data (Oura/Whoop).  I am integrating MCP servers for LLM assisted workflows in precision medicine.
