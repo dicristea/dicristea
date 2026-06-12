@@ -1,6 +1,6 @@
 ### Hi, I'm Diana! 👋
 
-I am a Health Tech Product Manager 👩‍💻 and former cancer researcher at UC Berkeley and UCSF 👩‍🔬.  Currently, I am pursuing my M.S., Applied Info Science & Info Systems in Health Technology at Cornell Tech. I sit at the intersection of life sciences and AI strategy building strategic frameworks and tools that translate complex data into actionable clinical insights.
+I am a Health Tech Project Manager 👩‍💻 and former cancer researcher at UC Berkeley and UCSF 👩‍🔬.  Currently, I am pursuing a Masters in Information Science with a focus on Health Technology at Cornell Tech. I sit at the intersection of life sciences and AI strategy building frameworks and tools that translate complex data into actionable clinical insights.
 
 #### 🔭 What I'm currently working on
 *  **Weill Cornell Medicine NICU Department:** Analyzing workflow across NICU clinicians and staff to define and design departmental AI-driven assistive tools. 
@@ -12,4 +12,4 @@ I am a Health Tech Product Manager 👩‍💻 and former cancer researcher at U
 *  **Predictive Healthcare Models:** Trained and compared ML models on wearable datasets to predict patient stress scores, sleep quality, and monitor disease progression.
 
 #### 🛠️ Tech Stack & Tools
-*  Python, React/Javascript, SQL, R, AWS, MCP, Figma/Canva
+*  Python, React/Javascript, C++, SQL, R, AWS, Figma/Canva
